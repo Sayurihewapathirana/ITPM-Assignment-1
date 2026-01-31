@@ -8,7 +8,7 @@ This repository contains automated functional test cases for **Singlish-to-Sinha
 ## Course Information
 
 - **Course**: IT3040 – Information Technology Project Management
-- **Program**: BSc (Hons) in Information Technology, Year 3, Semester 1
+- **Program**: BSc (Hons) in Information Technology, Year 3, Semester 2
 - **Assessment**: Assignment 1 – Functional Testing & Automation
 - **Registration Number**: IT23286078
 
@@ -84,7 +84,7 @@ npm test -- --headed
 ## Key Notes
 
 - No backend API, performance, or security testing included
-- Test cases follow naming conventions: `Pos_Fun`, `Neg_Fun`, `Pos_UI`, `Neg_UI`
+- Test cases follow naming conventions: `Pos_Fun`, `Neg_Fun`, `Pos_UI`
 - Excel file checked for plagiarism (similarity threshold: ≤10%)
 
 ## Submission
